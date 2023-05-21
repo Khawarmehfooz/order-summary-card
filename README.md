@@ -41,4 +41,4 @@ Users should be able to:
 
 - Website - [Khawar Mehfooz](https://khawar.io)
 - Frontend Mentor - [@Khawarmehfooz](https://www.frontendmentor.io/profile/Khawarmehfooz)
-- Twitter - [@yourusername](https://www.twitter.com/KhawarMehfooz)
+- Twitter - [@KhawarMehfooz](https://www.twitter.com/KhawarMehfooz)
